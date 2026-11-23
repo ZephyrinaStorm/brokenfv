@@ -1,0 +1,7 @@
+{
+  "appId": "com.harmonywaves.radio",
+  "appName": "Harmony Waves",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" },
+  "plugins": { "SplashScreen": { "launchShowDuration": 1500 } }
+}
